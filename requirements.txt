@@ -1,0 +1,13 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+SQLAlchemy==2.0.22
+alembic==1.10.4
+# pydantic and pydantic-settings: let pip resolve compatible versions for FastAPI
+# pydantic
+# pydantic-settings
+aiomysql==0.1.1
+aiosqlite==0.18.0
+python-jose==3.3.0
+bcrypt==4.0.1
+aiosmtplib==1.1.7
+openpyxl==3.1.2
